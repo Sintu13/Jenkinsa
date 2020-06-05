@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="494" started-at="2020-04-29T19:51:10Z" finished-at="2020-04-29T19:51:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="494" started-at="2020-04-29T19:51:10Z" finished-at="2020-04-29T19:51:10Z">
+      <class name="com.qa.test.Api$Selenium">
+        <test-method status="PASS" signature="a()[pri:0, instance:com.qa.test.Api$Selenium@148080bb]" name="a" duration-ms="71" started-at="2020-04-29T19:51:10Z" finished-at="2020-04-29T19:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="b()[pri:0, instance:com.qa.test.Api$Selenium@148080bb]" name="b" duration-ms="7" started-at="2020-04-29T19:51:10Z" finished-at="2020-04-29T19:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+      </class> <!-- com.qa.test.Api$Selenium -->
+      <class name="com.qa.test.Test_gg">
+        <test-method status="PASS" signature="ww()[pri:0, instance:com.qa.test.Test_gg@192b07fd]" name="ww" duration-ms="80" started-at="2020-04-29T19:51:10Z" finished-at="2020-04-29T19:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ww -->
+      </class> <!-- com.qa.test.Test_gg -->
+      <class name="com.qa.test.Test_fsdf">
+        <test-method status="PASS" signature="a()[pri:0, instance:com.qa.test.Test_fsdf@64bfbc86]" name="a" duration-ms="18" started-at="2020-04-29T19:51:10Z" finished-at="2020-04-29T19:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="b()[pri:0, instance:com.qa.test.Test_fsdf@64bfbc86]" name="b" duration-ms="6" started-at="2020-04-29T19:51:10Z" finished-at="2020-04-29T19:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+      </class> <!-- com.qa.test.Test_fsdf -->
+      <class name="com.qa.test.Selenium">
+        <test-method status="PASS" signature="a()[pri:0, instance:com.qa.test.Selenium@64bf3bbf]" name="a" duration-ms="4" started-at="2020-04-29T19:51:10Z" finished-at="2020-04-29T19:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="b()[pri:0, instance:com.qa.test.Selenium@64bf3bbf]" name="b" duration-ms="6" started-at="2020-04-29T19:51:10Z" finished-at="2020-04-29T19:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+      </class> <!-- com.qa.test.Selenium -->
+      <class name="com.qa.test.Apium_Test$Selenium">
+        <test-method status="PASS" signature="a()[pri:0, instance:com.qa.test.Apium_Test$Selenium@55d56113]" name="a" duration-ms="23" started-at="2020-04-29T19:51:10Z" finished-at="2020-04-29T19:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="b()[pri:0, instance:com.qa.test.Apium_Test$Selenium@55d56113]" name="b" duration-ms="11" started-at="2020-04-29T19:51:10Z" finished-at="2020-04-29T19:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+      </class> <!-- com.qa.test.Apium_Test$Selenium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

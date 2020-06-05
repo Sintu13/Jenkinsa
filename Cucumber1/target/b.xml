@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="10" time="1.818">
+<testcase classname="Application login" name="Home page defult login" time="0.282">
+<system-out><![CDATA[Given user is on netbanking landing page....................................passed
+When user login into application with "abc" name and password "123".........passed
+Then home page is populated.................................................passed
+And Cards are displyed "true"...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Application login" name="Home page defult login 2" time="0.023">
+<system-out><![CDATA[Given user is on netbanking landing page....................................passed
+When user signup with.......................................................passed
+Then home page is populated.................................................passed
+And Cards are displyed "false"..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Application login" name="Home page defult login" time="0.025">
+<system-out><![CDATA[Given user is on netbanking landing page....................................passed
+When user login into application with "abc" name and password "123".........passed
+Then home page is populated.................................................passed
+And Cards are displyed "true"...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Application login" name="Home page defult login 2" time="0.021">
+<system-out><![CDATA[Given user is on netbanking landing page....................................passed
+When user login into application with "xyz" name and password "324".........passed
+Then home page is populated.................................................passed
+And Cards are displyed "false"..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Application login" name="Home page defult login 3" time="0.014">
+<system-out><![CDATA[Given user is on netbanking landing page....................................passed
+When user signup with.......................................................passed
+Then home page is populated.................................................passed
+And Cards are displyed "false"..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Application login" name="Home page defult login 4" time="0.036">
+<system-out><![CDATA[Given user is on netbanking landing page....................................passed
+When user is signup with sintu1 and password is abcd........................passed
+Then home page is populated.................................................passed
+And Cards are displyed "false"..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Application login" name="Home page defult login 5" time="0.015">
+<system-out><![CDATA[Given user is on netbanking landing page....................................passed
+When user is signup with sintu2 and password is abcd........................passed
+Then home page is populated.................................................passed
+And Cards are displyed "false"..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Application login" name="Home page defult login 6" time="0.026">
+<system-out><![CDATA[Given user is on netbanking landing page....................................passed
+When user is signup with sintu3 and password is abcd........................passed
+Then home page is populated.................................................passed
+And Cards are displyed "false"..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Application login" name="Home page defult login 7" time="0.021">
+<system-out><![CDATA[Given user is on netbanking landing page....................................passed
+When user is signup with sintu4 and password is abcd........................passed
+Then home page is populated.................................................passed
+And Cards are displyed "false"..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Application login" name="Home page defult login 8" time="0.022">
+<system-out><![CDATA[Given user is on netbanking landing page....................................passed
+When user is signup with sintu5 and password is abcd........................passed
+Then home page is populated.................................................passed
+And Cards are displyed "false"..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
